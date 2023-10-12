@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Giacomo and I am a product manager [@Heritage](heritageholdings.co). Before I have been a [consultant](https://www.economist.com/leaders/2022/10/05/do-mckinsey-and-other-consultants-do-anything-useful) and a few other things. 
+
 <!--
 **Giaccam/giaccam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
